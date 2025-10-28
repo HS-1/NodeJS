@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Show test message\" && exit 1"
+    "test": "echo \"Show test message\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
